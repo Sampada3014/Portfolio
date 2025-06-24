@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.039bf95e.css",
-    "main.js": "/Portfolio/static/js/main.fcee46c6.js",
+    "main.js": "/Portfolio/static/js/main.93488730.js",
     "static/media/Hello.gif": "/Portfolio/static/media/Hello.d93720933c608f6178fb.gif",
     "static/media/-removebg-preview (1).png": "/Portfolio/static/media/c5a2df667121438db74dd869eb18a024-removebg-preview (1).11ec74b1d81ef008ed14.png",
     "static/media/Sampada_Kuveskar_Updated_Resume.pdf": "/Portfolio/static/media/Sampada_Kuveskar_Updated_Resume.8393798db309a0b9deeb.pdf",
-    "static/media/sampada Kuveskar.png": "/Portfolio/static/media/sampada Kuveskar.6d03143e1108c6b3fdd6.png",
+    "static/media/image.png": "/Portfolio/static/media/image.7a5edc829c032b2be47c.png",
     "static/media/edit-sampad.png": "/Portfolio/static/media/edit-sampad.e40078396b718cbf9ccf.png",
     "static/media/sass-icon.svg": "/Portfolio/static/media/sass-icon.8351205a93eafac2e392b26acf7580e1.svg",
     "static/media/typescript-icon.svg": "/Portfolio/static/media/typescript-icon.cb0ec90d268677cf90bb354fbb4c1f17.svg",
@@ -27,10 +27,10 @@
     "static/media/js-icon.svg": "/Portfolio/static/media/js-icon.ffcf56dc5498f7bbbec802191c740e5f.svg",
     "static/media/vue-icon.svg": "/Portfolio/static/media/vue-icon.c286d2da48ffbf281f407b0c4c94271f.svg",
     "main.039bf95e.css.map": "/Portfolio/static/css/main.039bf95e.css.map",
-    "main.fcee46c6.js.map": "/Portfolio/static/js/main.fcee46c6.js.map"
+    "main.93488730.js.map": "/Portfolio/static/js/main.93488730.js.map"
   },
   "entrypoints": [
     "static/css/main.039bf95e.css",
-    "static/js/main.fcee46c6.js"
+    "static/js/main.93488730.js"
   ]
 }
