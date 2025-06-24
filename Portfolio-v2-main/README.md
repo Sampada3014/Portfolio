@@ -1,4 +1,4 @@
-# Portfolio of Vinayak Singh
+# Portfolio of Sampada Kuveskar
 
 <img src ="" />
  
