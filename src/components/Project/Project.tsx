@@ -14,7 +14,7 @@ export function Project() {
   <div className="project">
     <div className="project-image">
       <img 
-        src="../../Images/Home-page-image.webp" 
+        src="Images/Home-page-image.webp" 
         alt="Fort Jadhavgadh Project" 
         style={{ width: "100%", borderRadius: "10px" }} 
       />
@@ -52,7 +52,7 @@ export function Project() {
   <div className="project">
     <div className="project-image">
       <img 
-        src="/Images/SparetreatsinPune.webp" 
+        src="Images/SparetreatsinPune.webp" 
         alt="Orchid Toyam Project" 
         style={{ width: "100%", borderRadius: "10px" }} 
       />
@@ -92,7 +92,7 @@ export function Project() {
   <div className="project">
     <div className="project-image">
       <img 
-        src="/Images/couple-spa-thumbnail.webp" 
+        src="Images/couple-spa-thumbnail.webp" 
         alt="Orchid Resort Goa Project" 
         style={{ width: "100%", borderRadius: "10px" }} 
       />
@@ -128,7 +128,7 @@ export function Project() {
   <div className="project">
     <div className="project-image">
       <img 
-        src="/Images/aeriel-view-farm_693838-1240.jpg" 
+        src="Images/aeriel-view-farm_693838-1240.jpg" 
         alt="The Family Farmer Project" 
         style={{ width: "100%", borderRadius: "10px" }} 
       />
@@ -165,7 +165,7 @@ export function Project() {
   <div className="project">
     <div className="project-image">
       <img 
-        src="/Images/company-banner.png" 
+        src="Images/company-banner.png" 
         alt="Kolsite Group Of Companies Project" 
         style={{ width: "100%", borderRadius: "10px" }} 
       />
@@ -200,7 +200,7 @@ export function Project() {
   <div className="project">
     <div className="project-image">
       <img 
-        src="/Images/sustainability-banner.webp" 
+        src="Images/sustainability-banner.webp" 
         alt="Geon Energy Sustainability Commitment Page" 
         style={{ width: "100%", borderRadius: "10px" }} 
       />
@@ -236,7 +236,7 @@ export function Project() {
   <div className="project">
     <div className="project-image">
       <img 
-        src="/Images/5U4A1641 1.png" 
+        src="Images/5U4A1641 1.png" 
         alt="BC Webwise Studio Page" 
         style={{ width: "100%", borderRadius: "10px" }} 
       />
@@ -272,7 +272,7 @@ export function Project() {
   <div className="project">
     <div className="project-image">
       <img 
-        src="/Images/home_banner_02.jpg" 
+        src="Images/home_banner_02.jpg" 
         alt="SIWS College Website" 
         style={{ width: "100%", borderRadius: "10px" }} 
       />
