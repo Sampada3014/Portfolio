@@ -1,4 +1,7 @@
+
 {
+ "homepage": "https://sampada3014.github.io/Portfolio",
+
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
@@ -26,12 +29,15 @@
     "validator": "^13.7.0",
     "web-vitals": "^2.1.0"
   },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
-  },
+ "scripts": {
+  "start": "react-scripts start",
+  "build": "react-scripts build",
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build",
+  "test": "react-scripts test",
+  "eject": "react-scripts eject"
+}
+,
   "eslintConfig": {
     "extends": [
       "react-app",
@@ -55,6 +61,7 @@
     "@types/react-google-recaptcha": "^2.1.2",
     "@types/react-router-hash-link": "^2.4.4",
     "@types/styled-components": "^5.1.18",
-    "@types/validator": "^13.7.1"
+    "@types/validator": "^13.7.1",
+    "gh-pages": "^6.3.0"
   }
 }

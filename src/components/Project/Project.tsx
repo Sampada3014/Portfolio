@@ -14,7 +14,7 @@ export function Project() {
   <div className="project">
     <div className="project-image">
       <img 
-        src="/Images/Home-page-image.webp" 
+        src="../../Images/Home-page-image.webp" 
         alt="Fort Jadhavgadh Project" 
         style={{ width: "100%", borderRadius: "10px" }} 
       />
